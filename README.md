@@ -59,7 +59,7 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 ---
 
 ## 📬 Contatti
-- **Email:** roberto.celano88@gmail.com
+- **Email:** r.celano@robertocelano.dev
 - **LinkedIn:** [linkedin.com/in/roberto-celano](https://www.linkedin.com/in/roberto-celano)
 - **Portfolio:** [robertocelano.dev](https://www.robertocelano.dev)
 
