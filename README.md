@@ -12,6 +12,18 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 
 ---
 
+### 🎓 Certificazioni
+
+<a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/" target="_blank">
+  <img src="https://github.com/Roberto-Celano/badge/raw/main/meta-back-end-developer-certificate%20400X400.png" 
+       alt="Meta Back-End Developer" 
+       style="max-width: 100%; height: auto;" 
+       width="130"/>
+</a>
+
+
+---
+
 ## 🛠 Tecnologie & Linguaggi
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
