@@ -39,7 +39,7 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 ---
 
 ## 📚 Formazione attuale
-- Programma certificato *IN CORSO* **Meta Back-End Developer** su Coursera
+- Programma certificato *IN CORSO* **Meta Front-End Developer**
 - Specializzazione *IN CORSO* su **PHP con Laravel**
 - Approfondimento su **Git, GitHub e gestione progetti reali**
 
