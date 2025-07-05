@@ -75,6 +75,11 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 
 ---
 
+## 🌐 Collegamenti utili
+
+- 🏆 [Il mio profilo su Google](https://g.co/kgs/FNuyc1Q)
+- 💬 [Entra nella mia community Discord](https://discord.gg/3dUXhHHt4N)
+
 # ⚡ Curiosità su di me
 Prima di diventare sviluppatore, sono stato chef professionista per oltre undici anni:  
 **la precisione, la gestione della pressione e la cura dei dettagli** che ho imparato in cucina oggi sono i miei punti di forza anche nello sviluppo software.
