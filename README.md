@@ -12,7 +12,7 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 
 ---
 
-### 🎓 Certificazioni
+## 🎓 Certificazioni
 
 <a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/" target="_blank">
   <img src="https://www.dropbox.com/scl/fi/08kb436ot8deov4ipukia/IMG-20250603-WA0009.jpg?rlkey=k3w1i5so879zqixnj4tqwkg14&st=q5ob5wu5&raw=1" 
@@ -22,9 +22,52 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 
 ---
 
+## 📦 Progetti principali
+
+### 🍽️ Don Magnifico
+🧾 **Descrizione**: Web app per ristoranti con gestione menu, prenotazioni online e layout completamente responsive.  
+🎯 **Obiettivo**: Semplificare la gestione di un ristorante moderno, dal front-end alla user experience.  
+
+📸 Anteprima:
+![Don Magnifico Preview](https://link-immagine-del-sito.jpg)
+
+
+💻 **Tecnologie**: 
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+🌐 **Online**: [Visita il sito](https://donmagnifico.it)
+
+---
+
+## 🚧 Progetti in sviluppo ![Under Construction](https://img.shields.io/badge/Development-In%20Progress-red?style=for-the-badge&logo=laravel)
+
+### 👨🏻‍💻 **robertocelano.dev**  
+Il mio sito portfolio personale, sviluppato con **Laravel**. Includerà i miei progetti, un blog tecnico e una sezione contatti smart.  
+🛠️ Attualmente in fase di sviluppo. Codice sorgente privato.
+
+### 🧩 **qreator.it**  
+Web app per generare **QR Code personalizzati** con logo, colori, formati multipli (PNG, SVG, PDF) e in futuro anche biglietti da visita digitali.  
+Tecnologie: **Laravel + Blade + Bootstrap**   
+🛠️ MVP in costruzione. Codice non ancora pubblico.
+
+### ✂️ **barberiacarnera.it**  
+Gestionale per barberie con sistema di prenotazione avanzato, pannello admin, agenda settimanale, notifiche e gestione clienti.  
+Tecnologie: **Laravel + Blade + Bootstrap**          
+🛠️ In fase di sviluppo. Consegna prevista: settembre 2025.
+
+### 🐾 **legardedudiamond.com**  
+Sito ufficiale per l’allevamento di Spitz Tedesco “Le Garde Du Diamond”. Include pannello di gestione, sezioni per cuccioli, servizi spa e pensione.  
+Tecnologie: **Laravel + React + Bootstrap**  
+🛠️ Sviluppo previsto tra ottobre e novembre 2025.
+
+---
+
 ## 🛠️ Tecnologie & Linguaggi
 
-### 🧩 Front-End
+### 🎨 Front-End
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -77,6 +120,15 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 
 ---
 
+## 🤝 Collaborazioni & Disponibilità
+
+- 🚀 Sono disponibile per **progetti freelance** a breve/medio termine.
+- 👥 Aperto a **collaborazioni su progetti open-source** e startup.
+- 🛠️ Mi piace lavorare in team e contribuire a soluzioni moderne ed efficienti.
+- 📬 Sentiti libero di contattarmi per idee, proposte o iniziative condivise.
+
+---
+
 ## 📬 Contatti
 - **Email:** r.celano@robertocelano.dev
 - **LinkedIn:** [linkedin.com/in/roberto-celano](https://www.linkedin.com/in/roberto-celano)
@@ -89,12 +141,23 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 - 🏆 [Il mio profilo su Google](https://g.co/kgs/FNuyc1Q)
 - 💬 [Entra nella mia community Discord](https://discord.gg/3dUXhHHt4N)
 
-# ⚡ Curiosità su di me
+---
+
+## ⚡ Curiosità su di me
 Prima di diventare sviluppatore, sono stato chef professionista per oltre undici anni:  
 **la precisione, la gestione della pressione e la cura dei dettagli** che ho imparato in cucina oggi sono i miei punti di forza anche nello sviluppo software.
 
 ---
 
-🚀 **Grazie per aver visitato il mio profilo GitHub!**
+![Roberto Celano | Dev Badge](https://img.shields.io/badge/Developer-Roberto%20Celano-blue?style=for-the-badge&logo=codewars)
+
+![Visite al profilo](https://visitor-badge.laobi.icu/badge?page_id=Roberto-Celano.Roberto-Celano&style=flat-square&color=blue)
+
+---
+
+<p align="center"><em>"Da chef a sviluppatore: la cura dei dettagli non cambia, solo gli strumenti."</em></p>
+
+<p align="center">🚀 <b>Grazie per aver visitato il mio profilo GitHub!</b></p>
+
 
 ---
