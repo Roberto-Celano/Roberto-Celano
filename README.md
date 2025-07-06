@@ -71,6 +71,53 @@ Tecnologie: **Laravel + React + Bootstrap**
 
 ---
 
+## 🎯 Progetti Statici & Dimostrativi
+
+Questa sezione raccoglie landing page, esercitazioni e demo realizzate per mostrare layout, componenti front-end e interazioni dinamiche di base. Sono progetti non commissionati, pensati per allenamento o come esempi pubblici.
+
+
+### 🛒 Click&Buy – E-commerce Landing Page
+
+📸 Anteprima:
+<p align="center">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/xp05m6bogkyzibyd41cun/mockupClick-Buy.png?rlkey=2xvr4z1mzwxvqphzthhgha9t1&st" alt="Anteprima Click&Buy – Responsive" width="70%">
+</p>
+
+Una landing page responsive per un progetto e-commerce fittizio. L'utente può:
+
+- 🔍 Esplorare prodotti e categorie.
+- ➕ Aggiungere articoli al carrello.
+- 🔄 Vedere il carrello aggiornarsi dinamicamente.
+
+💻 **Tecnologie**: 
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Demo:** 👉 [Click&Buy Live](https://roberto-celano.github.io/demo-prodotto-landing-page)
+
+---
+
+### ⌚ Timetech - Landing Page per Prodotto Tech
+
+📸 Anteprima:
+<p align="center">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/exyta18tip5yn34dbqinq/mockupTimetech.png?rlkey=0mvybdrj0qqbari4uqv8q2215" alt="Anteprima Timetech – Responsive" width="70%">
+</p>
+
+Una pagina vetrina progettata per presentare un prodotto tecnologico in modo moderno e responsive, con animazioni fluide e call to action mirate.
+
+💻 **Tecnologie**: 
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Demo:** 👉 [Timetech Live](https://roberto-celano.github.io/landing-page-prodotto/)
+
+---
+
 ## 🛠️ Tecnologie & Linguaggi
 
 ### 🎨 Front-End
