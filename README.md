@@ -30,7 +30,7 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 
 📸 Anteprima:
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m" alt="Anteprima Don Magnifico – Responsive" width="45%">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m" alt="Anteprima Don Magnifico – Responsive" width="75%">
 </p>
 
 <p align="center">
@@ -136,9 +136,12 @@ Tecnologie: **Laravel + React + Bootstrap**
 ---
 
 ## 📬 Contatti
-- **Email:** r.celano@robertocelano.dev
-- **LinkedIn:** [linkedin.com/in/roberto-celano](https://www.linkedin.com/in/roberto-celano)
-- **Portfolio:** [robertocelano.dev](https://www.robertocelano.dev)
+<ul>
+  <li>📧 <a href="mailto:r.celano@robertocelano.dev">r.celano@robertocelano.dev</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/roberto-celano" target="_blank">linkedin.com/in/roberto-celano</a></li>
+  <li>🌐 <a href="https://www.robertocelano.dev" target="_blank">www.robertocelano.dev</a></li>
+  <li>📱 <a href="tel:+393472325785">+39 347 232 5785</a></li>
+</ul>
 
 ---
 
