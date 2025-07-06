@@ -15,7 +15,7 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 ## 🎓 Certificazioni
 
 <a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/" target="_blank">
-  <img src="https://www.dropbox.com/scl/fi/08kb436ot8deov4ipukia/IMG-20250603-WA0009.jpg?rlkey=k3w1i5so879zqixnj4tqwkg14&st=q5ob5wu5&raw=1" 
+  <img src="https://dl.dropboxusercontent.com/scl/fi/08kb436ot8deov4ipukia/IMG-20250603-WA0009.jpg?rlkey=k3w1i5so879zqixnj4tqwkg14&st" 
        alt="Meta Back-End Developer" 
        style="max-width: 100%; height: auto;" width="130">
 </a>
@@ -25,18 +25,24 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 ## 📦 Progetti principali
 
 ### 🍽️ Don Magnifico
-🧾 **Descrizione**: Web app per ristoranti con gestione menu, prenotazioni online e layout completamente responsive.  
-🎯 **Obiettivo**: Semplificare la gestione di un ristorante moderno, dal front-end alla user experience.  
+🧾 **Descrizione**: Sito vetrina responsive per ristoranti, con sezioni dedicate al menù, alla presentazione del locale e ai contatti. Include link diretti a WhatsApp e ai profili social.  
+🎯 **Obiettivo**: Offrire una presenza online chiara ed elegante, facilitando l’accesso alle informazioni e il contatto diretto con i clienti.  
 
 📸 Anteprima:
-![Don Magnifico Preview](https://link-immagine-del-sito.jpg)
+<p align="center">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m" alt="Anteprima Don Magnifico – Responsive" width="45%">
+</p>
+
+<p align="center">
+  <em>💻 Responsive Web Design • Desktop | Tablet | Smartphone</em>
+</p>
 
 
 💻 **Tecnologie**: 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 🌐 **Online**: [Visita il sito](https://donmagnifico.it)
 
