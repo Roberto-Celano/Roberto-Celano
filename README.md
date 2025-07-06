@@ -114,7 +114,7 @@ Una pagina vetrina progettata per presentare un prodotto tecnologico in modo mod
 > ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Demo:** 👉 [Timetech Live](https://roberto-celano.github.io/landing-page-prodotto/)
+**Demo:** 👉 [Timetech Live](https://roberto-celano.github.io/demo-prodotto-landing-page/)
 
 ---
 
