@@ -1,6 +1,5 @@
 # 👋 Ciao, sono Roberto Celano
-
-**Sviluppatore Full Stack Web | PHP, Java, Python Enthusiast | Appassionato di Web Development e Web Design**
+**💻 Full-Stack Developer | Certificato Meta Back-End Developer | Appassionato di Laravel, React & Web Design**
 
 ---
 
