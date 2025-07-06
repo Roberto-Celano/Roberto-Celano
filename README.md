@@ -30,11 +30,12 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 
 📸 Anteprima:
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m" alt="Anteprima Don Magnifico – Responsive" width="75%">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m&st" alt="Anteprima Don Magnifico – Responsive" width="70%">
 </p>
 
 <p align="center">
-  <em>💻 Responsive Web Design • Desktop | Tablet | Smartphone</em>
+  <em>💻 Responsive Web Design • Desktop | Tablet | Smartphone</em><br>
+  <em>🧪 Test su Chrome, Safari, Firefox</em>
 </p>
 
 
