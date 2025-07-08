@@ -33,7 +33,7 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 </p>
 
 <p align="center">
-  <em>💻 Responsive Web Design • Desktop | Tablet | Smartphone</em><br>
+  <em>🧩 Responsive Web Design • Desktop | Tablet | Smartphone</em><br>
   <em>🧪 Test su Chrome, Safari, Firefox</em>
 </p>
 
@@ -178,7 +178,7 @@ Una pagina vetrina progettata per presentare un prodotto tecnologico in modo mod
 - 🚀 Sono disponibile per **progetti freelance** a breve/medio termine.
 - 👥 Aperto a **collaborazioni su progetti open-source** e startup.
 - 🛠️ Mi piace lavorare in team e contribuire a soluzioni moderne ed efficienti.
-- 📬 Sentiti libero di contattarmi per idee, proposte o iniziative condivise.
+- 📨 Sentiti libero di contattarmi per idee, proposte o iniziative condivise.
 
 ---
 
