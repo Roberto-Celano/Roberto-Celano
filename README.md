@@ -1,5 +1,5 @@
 # 👋 Ciao, sono Roberto Celano
-**💻 Full-Stack Developer | Certificato Meta Back-End Developer | Appassionato di Laravel, React & Web Design**
+**💻 Full-Stack Developer · PHP · Laravel · JavaScript · React · MySQL · Certificato Meta · Creo web app moderne, scalabili e sicure · Web Designer**
 
 ---
 
