@@ -1,4 +1,6 @@
 # 👋 Ciao, sono Roberto Celano
+**💼 Full-Stack Web Developer | Meta Certified Backend Developer**
+<!--
 **💻 Full-Stack Developer · PHP · Laravel · JavaScript · React · MySQL · Certificato Meta · Creo web app moderne, scalabili e sicure · Web Designer**
 
 ---
@@ -10,7 +12,7 @@ La mia passione per la tecnologia e la risoluzione di problemi mi ha portato a i
 Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per i dettagli e focus sulla user experience.
 
 ---
-
+-->
 ## 🎓 Certificazioni
 
 <a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/" target="_blank">
@@ -24,9 +26,10 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 ## 📦 Progetti principali
 
 ### 🍽️ Don Magnifico
-🧾 **Descrizione**: Sito vetrina responsive per ristoranti, con sezioni dedicate al menù, alla presentazione del locale e ai contatti. Include link diretti a WhatsApp e ai profili social.  
+🧾 **Descrizione**: Sito vetrina responsive per ristoranti, con sezioni dedicate al menù, alla presentazione del locale e ai contatti. Include link diretti a WhatsApp e ai profili social. 
+<!--
 🎯 **Obiettivo**: Offrire una presenza online chiara ed elegante, facilitando l’accesso alle informazioni e il contatto diretto con i clienti.  
-
+-->
 📸 Anteprima:
 <p align="center">
   <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m&st" alt="Anteprima Don Magnifico – Responsive" width="70%">
@@ -47,7 +50,7 @@ Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per
 🌐 **Online**: [Visita il sito](https://donmagnifico.it)
 
 ---
-
+<!--
 ## 🚧 Progetti in sviluppo ![Under Construction](https://img.shields.io/badge/Development-In%20Progress-red?style=for-the-badge&logo=laravel)
 
 ### 👨🏻‍💻 **robertocelano.dev**  
@@ -69,7 +72,7 @@ Sito ufficiale per l’allevamento di Spitz Tedesco “Le Garde Du Diamond”. I
 Tecnologie: **Laravel + React + Bootstrap**  
 🛠️ Sviluppo previsto tra ottobre e novembre 2025.
 
----
+
 
 ## 🎯 Progetti Statici & Dimostrativi
 
@@ -117,7 +120,15 @@ Una pagina vetrina progettata per presentare un prodotto tecnologico in modo mod
 **Demo:** 👉 [Timetech Live](https://roberto-celano.github.io/demo-prodotto-landing-page/)
 
 ---
+-->
+## 🛠️ Stack Tecnico
 
+**Frontend:** HTML5, CSS3, JavaScript, React, Bootstrap  
+**Backend:** PHP, Laravel, MySQL  
+**Tools:** Git, GitHub
+
+
+<!--
 ## 🛠️ Tecnologie & Linguaggi
 
 ### 🎨 Front-End
@@ -131,7 +142,7 @@ Una pagina vetrina progettata per presentare un prodotto tecnologico in modo mod
 ### 🧠 Back-End
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+<!--[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 
@@ -141,8 +152,10 @@ Una pagina vetrina progettata per presentare un prodotto tecnologico in modo mod
 ### 🔧 Strumenti
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
----
 
+---
+-->
+<!--
 ## 📚 Formazione attuale
 - Programma certificato *IN CORSO* **Meta Front-End Developer**
 - Specializzazione *IN CORSO* su **PHP con Laravel**
@@ -181,17 +194,21 @@ Una pagina vetrina progettata per presentare un prodotto tecnologico in modo mod
 - 📨 Sentiti libero di contattarmi per idee, proposte o iniziative condivise.
 
 ---
+-->
+
+---
 
 ## 📬 Contatti
 <ul>
   <li>📧 <a href="mailto:r.celano@robertocelano.dev">r.celano@robertocelano.dev</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/roberto-celano" target="_blank">linkedin.com/in/roberto-celano</a></li>
+ <!-- <li>💼 <a href="https://www.linkedin.com/in/roberto-celano" target="_blank">linkedin.com/in/roberto-celano</a></li>
   <li>🌐 <a href="https://www.robertocelano.dev" target="_blank">www.robertocelano.dev</a></li>
   <li>📱 <a href="tel:+393472325785">+39 347 232 5785</a></li>
+-->
 </ul>
 
 ---
-
+<!--
 ## 🌐 Collegamenti utili
 
 - 🏆 [Il mio profilo su Google](https://g.co/kgs/FNuyc1Q)
@@ -209,11 +226,11 @@ Prima di diventare sviluppatore, sono stato chef professionista per oltre undici
 
 ![Visite al profilo](https://visitor-badge.laobi.icu/badge?page_id=Roberto-Celano.Roberto-Celano&style=flat-square&color=blue)
 
----
 
+-->
+<!--
 <p align="center"><em>"Da chef a sviluppatore: la cura dei dettagli non cambia, solo gli strumenti."</em></p>
 
 <p align="center">🚀 <b>Grazie per aver visitato il mio profilo GitHub!</b></p>
 
-
----
+-->
