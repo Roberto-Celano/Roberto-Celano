@@ -61,10 +61,7 @@ Complete management system for appointments, clients, and staff scheduling.
 
 Responsive website for restaurants with digital menu, contact integration, and social media links.
 
-📸 **Preview:**
-<p align="center">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m&st" alt="Don Magnifico Preview" width="70%">
-</p>
+
 
 **Stack:** HTML5, CSS3, Bootstrap, JavaScript
 
