@@ -1,236 +1,133 @@
-# 👋 Ciao, sono Roberto Celano
-**💼 Full-Stack Web Developer | Meta Certified Backend Developer**
-<!--
-**💻 Full-Stack Developer · PHP · Laravel · JavaScript · React · MySQL · Certificato Meta · Creo web app moderne, scalabili e sicure · Web Designer**
+# Roberto Celano
+
+**System Builder | Full-Stack Developer**
+
+Building custom management systems for professionals and SMBs in Italy 🇮🇹
+
+Specialized in healthcare, beauty/wellness, and hospitality sectors.
 
 ---
 
-## 🚀 Chi sono
-Mi sono avvicinato al mondo dello sviluppo web dopo oltre undici anni di esperienza nel settore della ristorazione come chef professionista.  
-La mia passione per la tecnologia e la risoluzione di problemi mi ha portato a intraprendere una nuova carriera come sviluppatore.
-
-Oggi costruisco soluzioni web moderne, responsive ed efficienti, unendo cura per i dettagli e focus sulla user experience.
-
----
--->
-## 🎓 Certificazioni
+## 🎓 Certifications
 
 <a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/" target="_blank">
   <img src="https://dl.dropboxusercontent.com/scl/fi/08kb436ot8deov4ipukia/IMG-20250603-WA0009.jpg?rlkey=k3w1i5so879zqixnj4tqwkg14&st" 
        alt="Meta Back-End Developer" 
-       style="max-width: 100%; height: auto;" width="130">
+       width="130">
 </a>
 
 ---
 
-## 📦 Progetti principali
+## 🚀 Featured Projects
+
+### 🏥 ADR Doctor Pom
+**Veterinary management platform for Dr. Antonio De Rosa**
+
+Multi-tenant system for canine alopecia treatment with international client support.
+
+**Key Features:**
+- Geographic pricing system (Italy vs EU/US)
+- Integrated videocalls (Zoom API)
+- Payment processing (Stripe + bank transfers)
+- GDPR compliance native
+- Multi-step medical workflow with multilingual questionnaire (IT/EN/ES)
+
+**Stack:** Laravel 12, JavaScript, MySQL, Bootstrap 5  
+**Timeline:** 4 months from zero to 85% production
+
+**Status:** Launching soon
+
+---
+
+### ✂️ Barberia Carnera
+**Professional booking system for barber shops**
+
+Complete management system for appointments, clients, and staff scheduling.
+
+**Key Features:**
+- Real-time slot availability
+- Automated email reminders
+- Client dashboard with history
+- Staff management system
+
+**Stack:** Laravel 12, JavaScript, MySQL, Bootstrap 5
+
+**Status:** In development (February 2026 launch)
+
+---
 
 ### 🍽️ Don Magnifico
-🧾 **Descrizione**: Sito vetrina responsive per ristoranti, con sezioni dedicate al menù, alla presentazione del locale e ai contatti. Include link diretti a WhatsApp e ai profili social. 
-<!--
-🎯 **Obiettivo**: Offrire una presenza online chiara ed elegante, facilitando l’accesso alle informazioni e il contatto diretto con i clienti.  
--->
-📸 Anteprima:
+**Restaurant showcase website**
+
+Responsive website for restaurants with digital menu, contact integration, and social media links.
+
+📸 **Preview:**
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m&st" alt="Anteprima Don Magnifico – Responsive" width="70%">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/qhsy6tnuiej2rxodosyxu/mockupDonMagnifico.png?rlkey=7oybe6bujwcozij5jsh8e1i6m&st" alt="Don Magnifico Preview" width="70%">
+</p>
+
+**Stack:** HTML5, CSS3, Bootstrap, JavaScript
+
+🌐 **Live:** [donmagnifico.it](https://donmagnifico.it)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Laravel, PHP, MySQL  
+**Frontend:** JavaScript, Bootstrap 5, HTML5, CSS3  
+**APIs & Integrations:** Stripe, Zoom, WhatsApp, Google Maps  
+**Tools:** Git, GitHub, SiteGround  
+**Workflow:** AI-assisted development for 3x speed
+
+---
+
+## 👨‍🍳 Background
+
+**11 years professional chef → 2 years developer**
+
+Applying kitchen precision to code:
+- Complex system orchestration under pressure
+- Attention to detail and quality standards
+- Team coordination and leadership
+- Problem-solving in real-time
+
+This background makes me particularly effective for:
+- Food & hospitality projects
+- Healthcare & wellness systems
+- Service-based businesses
+
+---
+
+## 🤖 Development Approach
+
+I use **AI-assisted workflow** to deliver enterprise-quality systems in half the traditional time.
+
+Not hiding it - it's my competitive advantage.
+
+The client pays for:
+✅ Problem solved  
+✅ Working system  
+✅ Business digitalized
+
+NOT for:
+❌ "Proof I memorized syntax"
+
+---
+
+## 📬 Contact
+
+- 🌐 Portfolio: [robertocelano.dev](https://robertocelano.dev)
+- 💼 LinkedIn: [roberto-celano](https://linkedin.com/in/roberto-celano)
+- 🐦 Twitter/X: [@rcelanodev](https://twitter.com/rcelanodev)
+- 📧 Email: [r.celano@robertocelano.dev](mailto:r.celano@robertocelano.dev)
+
+---
+
+<p align="center">
+  <em>💬 Building in public | 🚀 Indie hacker | 🇮🇹 Based in Italy</em>
 </p>
 
 <p align="center">
-  <em>🧩 Responsive Web Design • Desktop | Tablet | Smartphone</em><br>
-  <em>🧪 Test su Chrome, Safari, Firefox</em>
+  <em>"From chef to developer: precision doesn't change, only the tools."</em>
 </p>
-
-
-💻 **Tecnologie**: 
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-🌐 **Online**: [Visita il sito](https://donmagnifico.it)
-
----
-<!--
-## 🚧 Progetti in sviluppo ![Under Construction](https://img.shields.io/badge/Development-In%20Progress-red?style=for-the-badge&logo=laravel)
-
-### 👨🏻‍💻 **robertocelano.dev**  
-Il mio sito portfolio personale, sviluppato con **Laravel**. Includerà i miei progetti, un blog tecnico e una sezione contatti smart.  
-🛠️ Attualmente in fase di sviluppo. Codice sorgente privato.
-
-### 🧩 **qreator.it**  
-Web app per generare **QR Code personalizzati** con logo, colori, formati multipli (PNG, SVG, PDF) e in futuro anche biglietti da visita digitali.  
-Tecnologie: **Laravel + Blade + Bootstrap**   
-🛠️ MVP in costruzione. Codice non ancora pubblico.
-
-### ✂️ **barberiacarnera.it**  
-Gestionale per barberie con sistema di prenotazione avanzato, pannello admin, agenda settimanale, notifiche e gestione clienti.  
-Tecnologie: **Laravel + Blade + Bootstrap**          
-🛠️ In fase di sviluppo. Consegna prevista: settembre 2025.
-
-### 🐾 **legardedudiamond.com**  
-Sito ufficiale per l’allevamento di Spitz Tedesco “Le Garde Du Diamond”. Include pannello di gestione, sezioni per cuccioli, servizi spa e pensione.  
-Tecnologie: **Laravel + React + Bootstrap**  
-🛠️ Sviluppo previsto tra ottobre e novembre 2025.
-
-
-
-## 🎯 Progetti Statici & Dimostrativi
-
-Questa sezione raccoglie landing page, esercitazioni e demo realizzate per mostrare layout, componenti front-end e interazioni dinamiche di base. Sono progetti non commissionati, pensati per allenamento o come esempi pubblici.
-
-
-### 🛒 Click&Buy – E-commerce Landing Page
-
-📸 Anteprima:
-<p align="center">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/xp05m6bogkyzibyd41cun/mockupClick-Buy.png?rlkey=2xvr4z1mzwxvqphzthhgha9t1&st" alt="Anteprima Click&Buy – Responsive" width="70%">
-</p>
-
-Una landing page responsive per un progetto e-commerce fittizio. L'utente può:
-
-- 🔍 Esplorare prodotti e categorie.
-- ➕ Aggiungere articoli al carrello.
-- 🔄 Vedere il carrello aggiornarsi dinamicamente.
-
-💻 **Tecnologie**: 
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Demo:** 👉 [Click&Buy Live](https://roberto-celano.github.io/e-commerce-landing-page/)
-
----
-
-### ⌚ Timetech - Landing Page per Prodotto Tech
-
-📸 Anteprima:
-<p align="center">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/exyta18tip5yn34dbqinq/mockupTimetech.png?rlkey=0mvybdrj0qqbari4uqv8q2215" alt="Anteprima Timetech – Responsive" width="70%">
-</p>
-
-Una pagina vetrina progettata per presentare un prodotto tecnologico in modo moderno e responsive, con animazioni fluide e call to action mirate.
-
-💻 **Tecnologie**: 
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Demo:** 👉 [Timetech Live](https://roberto-celano.github.io/demo-prodotto-landing-page/)
-
----
--->
-## 🛠️ Stack Tecnico
-
-**Frontend:** HTML5, CSS3, JavaScript, React, Bootstrap  
-**Backend:** PHP, Laravel, MySQL  
-**Tools:** Git, GitHub
-
-
-<!--
-## 🛠️ Tecnologie & Linguaggi
-
-### 🎨 Front-End
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-
-### 🧠 Back-End
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)](#)
-<!--[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
-
-### 🗄️ Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-
-### 🔧 Strumenti
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
----
--->
-<!--
-## 📚 Formazione attuale
-- Programma certificato *IN CORSO* **Meta Front-End Developer**
-- Specializzazione *IN CORSO* su **PHP con Laravel**
-- Approfondimento su **Git, GitHub e gestione progetti reali**
-
----
-
-## 🎯 Obiettivi
-- Collaborare su progetti di sviluppo web back-end e full stack
-- Crescere come developer specializzato in soluzioni complete, moderne ed efficienti
-- Continuare ad ampliare le mie competenze su tecnologie moderne (Node.js, React, Laravel, ecc.)
-
----
-
-## 📈 Statistiche GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Celano&show_icons=true&include_all_commits=true&hide_border=true&theme=blue-green" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roberto-Celano&hide_border=true&theme=blue-green" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-Celano&layout=compact&langs_count=6&hide=css,html&hide_border=true&theme=blue-green" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Collaborazioni & Disponibilità
-
-- 🚀 Sono disponibile per **progetti freelance** a breve/medio termine.
-- 👥 Aperto a **collaborazioni su progetti open-source** e startup.
-- 🛠️ Mi piace lavorare in team e contribuire a soluzioni moderne ed efficienti.
-- 📨 Sentiti libero di contattarmi per idee, proposte o iniziative condivise.
-
----
--->
-
----
-
-## 📬 Contatti
-<ul>
-  <li>📧 <a href="mailto:r.celano@robertocelano.dev">r.celano@robertocelano.dev</a></li>
- <!-- <li>💼 <a href="https://www.linkedin.com/in/roberto-celano" target="_blank">linkedin.com/in/roberto-celano</a></li>
-  <li>🌐 <a href="https://www.robertocelano.dev" target="_blank">www.robertocelano.dev</a></li>
-  <li>📱 <a href="tel:+393472325785">+39 347 232 5785</a></li>
--->
-</ul>
-
----
-<!--
-## 🌐 Collegamenti utili
-
-- 🏆 [Il mio profilo su Google](https://g.co/kgs/FNuyc1Q)
-- 💬 [Entra nella mia community Discord](https://discord.gg/3dUXhHHt4N)
-
----
-
-## ⚡ Curiosità su di me
-Prima di diventare sviluppatore, sono stato chef professionista per oltre undici anni:  
-**la precisione, la gestione della pressione e la cura dei dettagli** che ho imparato in cucina oggi sono i miei punti di forza anche nello sviluppo software.
-
----
-
-![Roberto Celano | Dev Badge](https://img.shields.io/badge/Developer-Roberto%20Celano-blue?style=for-the-badge&logo=codewars)
-
-![Visite al profilo](https://visitor-badge.laobi.icu/badge?page_id=Roberto-Celano.Roberto-Celano&style=flat-square&color=blue)
-
-
--->
-<!--
-<p align="center"><em>"Da chef a sviluppatore: la cura dei dettagli non cambia, solo gli strumenti."</em></p>
-
-<p align="center">🚀 <b>Grazie per aver visitato il mio profilo GitHub!</b></p>
-
--->
