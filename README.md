@@ -1,130 +1,72 @@
-# Roberto Celano
+<p align="center">
+  <img src="./github-profile-banner.png" alt="Roberto Celano — Digital Developer" width="100%">
+</p>
 
-**System Builder | Full-Stack Developer**
+<p align="center">
+  <a href="https://robertocelano.dev"><img src="https://img.shields.io/badge/Portfolio-robertocelano.dev-2A445B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://robertocelano.dev/projects"><img src="https://img.shields.io/badge/Selected_Projects-Explore-3498DB?style=for-the-badge&logo=github&logoColor=white" alt="Selected projects"></a>
+  <a href="https://linkedin.com/in/roberto-celano"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-Building custom management systems for professionals and SMBs in Italy 🇮🇹
+## 👋 About me
 
-Specialized in healthcare, beauty/wellness, and hospitality sectors.
+I build custom websites and software for businesses, turning ideas and workflows into clear, reliable digital tools.
 
----
+Based in Italy and available for remote collaborations.
 
-## 🎓 Certifications
+## 🚀 What I build
 
-<a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/" target="_blank">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/08kb436ot8deov4ipukia/IMG-20250603-WA0009.jpg?rlkey=k3w1i5so879zqixnj4tqwkg14&st" 
-       alt="Meta Back-End Developer" 
-       width="130">
+- Websites and landing pages focused on clarity, performance, and usability
+- Custom business software, dashboards, and internal tools
+- Booking, management, and workflow systems
+- API integrations, maintenance, and continuous improvements
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**Backend:** PHP, Laravel, MySQL  
+**Frontend:** JavaScript, HTML, CSS, Bootstrap  
+**Workflow:** Git, GitHub  
+**Integrations:** REST APIs and third-party services
+
+## 🤝 How I work
+
+- One point of contact, from the first conversation to delivery and support
+- Clear scope, timing, and costs before development begins
+- Responsive, accessible, and maintainable interfaces
+- The client retains ownership of the domain, code, and project access
+
+## 💼 Selected work
+
+My projects and case studies evolve over time, so I keep the latest selection updated on my portfolio.
+
+➡️ [Explore my projects](https://robertocelano.dev/projects)
+
+## 🎓 Certification
+
+<a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/">
+  <img src="https://img.shields.io/badge/Meta-Back--End_Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Back-End Developer">
 </a>
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 ADR Doctor Pom
-**Veterinary management platform for Dr. Antonio De Rosa**
-
-Multi-tenant system for canine alopecia treatment with international client support.
-
-**Key Features:**
-- Geographic pricing system (Italy vs EU/US)
-- Integrated videocalls (Zoom API)
-- Payment processing (Stripe + bank transfers)
-- GDPR compliance native
-- Multi-step medical workflow with multilingual questionnaire (IT/EN/ES)
-
-**Stack:** Laravel 12, JavaScript, MySQL, Bootstrap 5  
-**Timeline:** 4 months from zero to 85% production
-
-**Status:** Launching soon
-
----
-
-### ✂️ Barberia Carnera
-**Professional booking system for barber shops**
-
-Complete management system for appointments, clients, and staff scheduling.
-
-**Key Features:**
-- Real-time slot availability
-- Automated email reminders
-- Client dashboard with history
-- Staff management system
-
-**Stack:** Laravel 12, JavaScript, MySQL, Bootstrap 5
-
-**Status:** In development (February 2026 launch)
-
----
-
-### 🍽️ Don Magnifico
-**Restaurant showcase website**
-
-Responsive website for restaurants with digital menu, contact integration, and social media links.
-
-
-
-**Stack:** HTML5, CSS3, Bootstrap, JavaScript
-
-🌐 **Live:** [donmagnifico.it](https://donmagnifico.it)
-
----
-
-## 🛠️ Tech Stack
-
-**Backend:** Laravel, PHP, MySQL  
-**Frontend:** JavaScript, Bootstrap 5, HTML5, CSS3  
-**APIs & Integrations:** Stripe, Zoom, WhatsApp, Google Maps  
-**Tools:** Git, GitHub, SiteGround  
-**Workflow:** AI-assisted development for 3x speed
-
----
 
 ## 👨‍🍳 Background
 
-**11 years professional chef → 2 years developer**
+Before working in software development, I spent years in professional kitchens.
 
-Applying kitchen precision to code:
-- Complex system orchestration under pressure
-- Attention to detail and quality standards
-- Team coordination and leadership
-- Problem-solving in real-time
-
-This background makes me particularly effective for:
-- Food & hospitality projects
-- Healthcare & wellness systems
-- Service-based businesses
-
----
-
-## 🤖 Development Approach
-
-I use **AI-assisted workflow** to deliver enterprise-quality systems in half the traditional time.
-
-Not hiding it - it's my competitive advantage.
-
-The client pays for:
-✅ Problem solved  
-✅ Working system  
-✅ Business digitalized
-
-NOT for:
-❌ "Proof I memorized syntax"
-
----
+That experience still shapes how I approach development: precision, organization, attention to detail, and practical problem-solving under pressure.
 
 ## 📬 Contact
 
-- 🌐 Portfolio: [robertocelano.dev](https://robertocelano.dev)
-- 💼 LinkedIn: [roberto-celano](https://linkedin.com/in/roberto-celano)
-- 🐦 Twitter/X: [@rcelanodev](https://twitter.com/rcelanodev)
-- 📧 Email: [r.celano@robertocelano.dev](mailto:r.celano@robertocelano.dev)
-
----
-
-<p align="center">
-  <em>💬 Building in public | 🚀 Indie hacker | 🇮🇹 Based in Italy</em>
-</p>
-
-<p align="center">
-  <em>"From chef to developer: precision doesn't change, only the tools."</em>
-</p>
+- 🌐 [robertocelano.dev](https://robertocelano.dev)
+- 💼 [LinkedIn](https://linkedin.com/in/roberto-celano)
+- 𝕏 [@rcelanodev](https://x.com/rcelanodev)
+- ✉️ [info@robertocelano.dev](mailto:info@robertocelano.dev)
