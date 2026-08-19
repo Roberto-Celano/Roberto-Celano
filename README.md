@@ -1,22 +1,28 @@
 <p align="center">
-  <img src="./github-profile-banner.png" alt="Roberto Celano — Digital Developer" width="100%">
+  <img src="./github-profile-banner.png" alt="Roberto Celano — Web Applications & Digital Solutions" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://robertocelano.dev"><img src="https://img.shields.io/badge/Portfolio-robertocelano.dev-2A445B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://robertocelano.dev/projects"><img src="https://img.shields.io/badge/Selected_Projects-Explore-3498DB?style=for-the-badge&logo=github&logoColor=white" alt="Selected projects"></a>
-  <a href="https://linkedin.com/in/roberto-celano"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://robertocelano.dev">
+    <img src="https://img.shields.io/badge/Portfolio-robertocelano.dev-2A445B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://robertocelano.dev/projects">
+    <img src="https://img.shields.io/badge/Selected_Projects-Explore-3498DB?style=for-the-badge&logo=github&logoColor=white" alt="Selected projects">
+  </a>
+  <a href="https://linkedin.com/in/roberto-celano">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ## 👋 About me
 
 I build custom websites and software for businesses, turning ideas and workflows into clear, reliable digital tools.
 
-Based in Italy and available for remote collaborations.
+Based in Vasto, Italy, and available for remote collaborations.
 
 ## 🚀 What I build
 
-- Websites and landing pages focused on clarity, performance, and usability
+- Websites, landing pages, and e-commerce
 - Custom business software, dashboards, and internal tools
 - Booking, management, and workflow systems
 - API integrations, maintenance, and continuous improvements
@@ -52,10 +58,10 @@ My projects and case studies evolve over time, so I keep the latest selection up
 
 ➡️ [Explore my projects](https://robertocelano.dev/projects)
 
-## 🎓 Certification
+## 🎓 Selected certifications
 
 <a href="https://www.credly.com/badges/7ec3d559-4f70-4ffa-8277-3293a6192a7f/">
-  <img src="https://img.shields.io/badge/Meta-Back--End_Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Back-End Developer">
+  <img src="https://img.shields.io/badge/Meta-Back--End_Developer-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Back-End Developer">
 </a>
 
 ## 👨‍🍳 Background
