@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-profile-banner.png" alt="Roberto Celano — Web Applications & Digital Solutions" width="100%">
+  <img src="./banner-github.png" alt="Roberto Celano — Web Applications & Digital Solutions" width="100%">
 </p>
 
 <p align="center">
